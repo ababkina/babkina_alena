@@ -62,8 +62,3 @@ Complex& Complex::operator/=(const double rhs)
     im /= rhs;
     return *this;
 }
-
-//Complex& Complex::operator/=(const Complex& rhs)
-//{
-//
-//}
